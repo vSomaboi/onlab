@@ -1,0 +1,11 @@
+package hu.bme.aut.android.transportapp.compose.profile
+
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
+
+@Composable
+fun ProfileScreen(
+    modifier: Modifier = Modifier,
+){
+
+}
