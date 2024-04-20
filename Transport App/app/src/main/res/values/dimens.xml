@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_margin_small">8dp</dimen>
+    <dimen name="button_margin_medium">12dp</dimen>
+    <dimen name="button_margin_large">16dp</dimen>
+    <dimen name="margin_between_text_fields">25dp</dimen>
+</resources>
